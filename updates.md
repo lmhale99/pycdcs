@@ -1,6 +1,8 @@
 # Updates
 
-*Version 0.2.6* Added support for CDCS authentication tokens and for generic RestClient headers-based authentication.
+*Version 0.2.7* Added support for CDCS authentication tokens and for generic RestClient headers-based authentication.
+
+*Version 0.2.6* Improvements to how queries are performed on templates that have multiple versions.  Default cdcsversion increased to 3.10.
 
 *Version 0.2.5* Minor fixes for the tests to pass for newer python versions.
 
