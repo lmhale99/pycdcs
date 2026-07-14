@@ -1,5 +1,7 @@
 # Updates
 
+*Version 0.2.6* Added support for CDCS authentication tokens and for generic RestClient headers-based authentication.
+
 *Version 0.2.5* Minor fixes for the tests to pass for newer python versions.
 
 *Version 0.2.4* PID support added to upload_blob().  get_record() now supports retrieval directly by database id which can be useful if you already know the id from a previous query or if there happens to be multiple entries with the same template+title.
